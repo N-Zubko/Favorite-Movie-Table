@@ -1,0 +1,43 @@
+body {
+  background-color: #E6E6E9 ;
+  text-align: center;
+
+}
+
+code {
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 400;
+}
+
+.main {
+  margin: auto 30px;
+  color: #636366;
+}
+
+.status-General {
+ background-color: #C8E6C9;
+}
+
+.status-CA-PG {
+  background-color: #FEEDAF;
+}
+
+.status-14 {
+  background-color: #FFCDD2;
+}
+.movie-card-content {
+  background-color: #88a2aa;
+}
+
+.movie-card {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 400px;
+  margin-top: 20px;
+}
